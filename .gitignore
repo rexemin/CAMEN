@@ -1,0 +1,7 @@
+# Ambiente de desarrollo
+*.code-workspace
+*env/
+
+# Archivos de Python
+__pycache__/
+*.pyc
