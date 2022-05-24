@@ -6,7 +6,10 @@ Este programa fue hecho como proyecto final para una materia llamada "Análisis 
 
 ## Dependencias
 
-Esta calculadora está programada en python 2.7.x y ocupa los siguientes módulos:
+Esta calculadora fue programada originalmente en python 2.7.x
+([la versión compatible con Python 2 está en este commit](https://github.com/rexemin/CAMEN/tree/9a30e8c7fefb7ca8a08ef96b47c726821910e705)), 
+pero ahora está porteada a Python
+3.x. Ocupa los siguientes módulos:
 * Tkinter
 * [py_expression_eval](https://github.com/Axiacore/py-expression-eval)
 
