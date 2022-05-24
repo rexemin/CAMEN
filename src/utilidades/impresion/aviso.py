@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# -*- coding: latin-1 -*-
+# -*- coding: utf-8 -*-
 import os, sys
 
 #**************************************************************************************#
@@ -14,7 +14,7 @@ Este módulo contiene una función que permite mostrar ventanas de diálogo emer
 
 #**************************************************************************************#
 
-from Tkinter import Toplevel, Label
+from tkinter import Toplevel, Label
 
 #**************************************************************************************#
 

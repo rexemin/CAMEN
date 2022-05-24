@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# -*- coding: latin-1 -*-
+# -*- coding: utf-8 -*-
 import os, sys
 
 #**************************************************************************************#
@@ -15,7 +15,7 @@ solución de sistemas de ecuaciones lineales.
 
 #**************************************************************************************#
 
-from Tkinter import *
+from tkinter import *
 
 from metodos_numericos.sel.exacto import *
 from metodos_numericos.sel.iterativo import *

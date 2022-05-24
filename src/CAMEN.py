@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# -*- coding: latin-1 -*-
+# -*- coding: utf-8 -*-
 import os, sys
 
 """
@@ -10,7 +10,7 @@ Fecha: 07/Diciembre/2016.
 Este módulo contiene la función principal del programa.
 """
 
-from Tkinter import *
+from tkinter import *
 
 from gui.menu import PanelPrincipal
 
