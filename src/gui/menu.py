@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# -*- coding: latin-1 -*-
+# -*- coding: utf-8 -*-
 import os, sys
 
 #**************************************************************************************#
@@ -14,12 +14,12 @@ Este módulo contiene la clase que definen los menús del programa.
 
 #**************************************************************************************#
 
-from Tkinter import *
+from tkinter import *
 
-from ventanas_raiz import *
-from ventanas_lineales import *
-from ventanas_ajuste import *
-from ventanas_integracion import *
+from gui.ventanas_raiz import *
+from gui.ventanas_lineales import *
+from gui.ventanas_ajuste import *
+from gui.ventanas_integracion import *
 
 from utilidades.impresion.aviso import mostrarAviso
 

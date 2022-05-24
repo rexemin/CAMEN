@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# -*- coding: latin-1 -*-
+# -*- coding: utf-8 -*-
 import os, sys
 
 #**************************************************************************************#
@@ -15,7 +15,7 @@ cada método numérico para la aproximación de la raíz de funciones no lineale
 
 #**************************************************************************************#
 
-from Tkinter import *
+from tkinter import *
 
 from utilidades.gestion.gestion_no_lineales import *
 from utilidades.impresion.aviso import mostrarAviso
